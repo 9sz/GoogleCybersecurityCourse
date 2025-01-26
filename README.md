@@ -1,2 +1,2 @@
 # GoogleCybersecurityCourse
-All my activities in the Google Cybersecurity Professional course.
+All of my activities in the Google Cybersecurity Professional course.
